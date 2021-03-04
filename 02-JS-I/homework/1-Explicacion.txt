@@ -1,0 +1,26 @@
+Explicación simple de conceptos vistos:
+
+
+	Variable: Es un componente capaz de almacenar valores. Está compuesto por el tipo de variable ("var", "let" o "const"), por 
+	 un nombre que identifique especificamente esa variable, un "=" y el valor o información que se desea que almacene dicha 
+	 variable.
+
+	Strings: Es un tipo de dato capaz de ser almacenado dentro de una variable. Consiste en un hilo de caracteres 
+	 (puede ser texto, numeros o signos), encerrados entre comillas.
+
+	Funciones: Es una facilidad que ofrece JS, en donde se puede agrupar código para ser ejecutado cuando se desee 
+	 (cuando se invoque la función).
+	 Una función puede o no incluir argumentos. los argumentos son como variables que uno declara en la función, pero que no 
+	  define su valor hasta el momento en el que se invoca dicha variable.
+	 El return lo que hará es retornar (luego de ejecutarse determinado código) cierto resultado.
+		Ej: function ejemplo (a, b) {
+		      return a + b;
+		      }
+		    ejemplo(1, 2);
+	          
+		    3;
+
+	Declaración if: Permite ejecutar cierto código siempre y cuando se cumplan determinadas condiciones.
+	
+	Booleanos: Es un tipo de dato cuyos valores pueden ser solamente dos, o true o false.	
+			
